@@ -64,7 +64,7 @@
   <td align="center">
   <p align="center">
   <a href="https://github.com/swarajbachu">
-    <img align="center" height="200px" width="600" src="https://github-readme-stats.vercel.app/api/wakatime?username=swarajbachu"/>
+    <img align="center" height="300px" width="600" src="https://github-readme-stats.vercel.app/api/wakatime?username=swarajbachu"/>
   </a>
   </td>
   <td align="center">
