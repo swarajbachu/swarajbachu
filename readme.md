@@ -115,10 +115,10 @@ Swaraj@gesturs.com
 
     
 
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
+#<p align="center">
+ # <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+  #  alt="example" />
+#</p>
 
 
 
@@ -129,7 +129,7 @@ Swaraj@gesturs.com
 
 ## Let's Work on Your Project Together!
 
-If you have any questions about front-end web development, feel free to <a href="mailto:ipriyam26@gmail.com">contact me through email</a> me.
+If you have any questions about front-end web development, feel free to <a href="mailto:swaraj@gesturs.com">contact me through email</a> me.
 
 
   </td>
