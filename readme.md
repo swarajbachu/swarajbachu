@@ -1,7 +1,9 @@
 <h1 align="center">
 Hi, I'm Swaraj Bachu
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+  
  <!--<img src="https://komarev.com/ghpvc/?username=swarajbachu&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="swarajbachu" />-->
+ [![Twitter Follow](https://img.shields.io/twitter/follow/swarajbachu?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/swarajbachu)
 <br/>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -9,7 +11,7 @@ Hi, I'm Swaraj Bachu
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
-<img align="left" src="https://media.giphy.com/media/eSwGh3YK54JKU/giphy.gif" alt="Hmmm!! SO you are trying to copy my readme! Hehe, just find an gif from Giphy.com to change this" width="320" height="210"/>
+<img align="left" src="https://media.giphy.com/media/IQxvdHgfat9ENGJbEm/giphy.gif" alt="Hmmm!! SO you are trying to copy my readme! Hehe, just find an gif from Giphy.com to change this" width="320" height="210"/>
 
 
 ```
@@ -24,7 +26,7 @@ Swaraj@gesturs.com
 ```
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ipriyam26.visitor&left_color=green&right_color=red)
+![visitors](https://komarev.com/ghpvc/?username=swarajbachu&label=Profile%20views&color=0e75b6&style=flat")
                 
 ## 🛠️ My Favorite Tools
 
