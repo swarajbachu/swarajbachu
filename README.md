@@ -39,7 +39,7 @@ Swaraj@gesturs.com
     <a href="https://github.com/search?q=user%3Aswarajbachu+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"></a>
      <a href="https://github.com/search?q=user%3Aswarajbachu+is%3Arepo+language%3Ajavascript"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Aswarajbachu+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3Aswarajbachu+is%3Arepo+language%3Asql"><img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3Aswarajbachu+is%3Arepo+language%3ADart"><img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3Aswarajbachu+is%3Arepo+language%3Asql"><img alt="Bash" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
   <a href="#" ><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"></a>
 </p>
