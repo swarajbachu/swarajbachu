@@ -21,9 +21,6 @@ Swaraj@gesturs.com
 💻 I am a self taught Full Stack Developer and a AI Developer
 📝 I have a strong interest in Development and Artificial Intelligence
 🔭 I like building Softwares
-🌱 Learning to build tools with react
-🌟 Main languages: Python, JavaScript
-💖 In a complicated Python
 ```
 
 
