@@ -16,10 +16,9 @@ Hi, I'm Swaraj Bachu
 
 
 ```
-Swaraj@gesturs.com
+me@swarajbachu.tech
 -------------------------
-💻 I am a self taught Full Stack Developer and a AI Developer
-📝 I have a strong interest in Development and Artificial Intelligence
+💻 I am a Full Stack Developer
 🔭 I like building Softwares
 ```
 
