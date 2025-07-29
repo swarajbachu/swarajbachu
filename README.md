@@ -1,7 +1,4 @@
-<h1 align="center">
-Hi, I'm Swaraj Bachu
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
-  
+
  <!--<img src="https://komarev.com/ghpvc/?username=swarajbachu&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="swarajbachu" />-->
  ![visitors](https://komarev.com/ghpvc/?username=swarajbachu&label=Profile%20views&color=0e75b6&style=flat")
 
@@ -16,9 +13,6 @@ Hi, I'm Swaraj Bachu
 
 
 ```
-me@swarajbachu.tech
--------------------------
-💻 I am a Full Stack Developer
 🔭 I like building Softwares
 ```
 
