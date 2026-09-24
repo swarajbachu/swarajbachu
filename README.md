@@ -17,29 +17,6 @@
 ```
 
 
-<table>
-<tr>
-  <td align="center">
-  <a href="https://github.com/swarajbachu">
-    <img align="center" height="300px" width="600" src="https://github-readme-stats.vercel.app/api/wakatime?username=swarajbachu"/>
-  </a>
-  </td>
-<!--   <td align="center">
-  <a href="https://github.com/swarajbachu">
-    <img align="center" height="200px" width="600" src="https://github-readme-stats.vercel.app/api/top-langs?username=swarajbachu&show_icons=true&locale=en&layout=compact&theme=material-palenight" />
-  </a>
-  </td> -->
-</tr>
-</table>
-
-<!-- 
-Get the this things done after exam
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
-</p> -->
-
-
 
 
 
